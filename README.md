@@ -172,13 +172,11 @@ Replace this section with your own details:
 - GitHub: https://github.com/YOUR_USERNAME
 - LinkedIn: your LinkedIn profile URL
 - Portfolio: your portfolio URL
-```
+```You can copy this text directly into `README.md` and then adjust the project name, username, and links to match your GitHub and personal details.
+
 <img width="1765" height="659" alt="Screenshot 2025-12-28 221722" src="https://github.com/user-attachments/assets/ec4df963-7f19-4082-8198-a41ff82b8fd7" />
 <img width="1474" height="894" alt="Screenshot 2025-12-28 221732" src="https://github.com/user-attachments/assets/75c19bcd-6df2-4767-bdb5-0b23ace2a6b8" />
 <img width="1461" height="690" alt="Screenshot 2025-12-28 221746" src="https://github.com/user-attachments/assets/0a3ccbcc-b87a-456d-8f8d-d1a5157964eb" />
 <img width="1449" height="710" alt="Screenshot 2025-12-28 221756" src="https://github.com/user-attachments/assets/a828276c-cb85-4225-a483-d7a05e892d74" />
 <img width="1432" height="772" alt="Screenshot 2025-12-28 221808" src="https://github.com/user-attachments/assets/1469070b-4f95-4222-b13b-3bbb5c16fbca" />
 
-
-
-You can copy this text directly into `README.md` and then adjust the project name, username, and links to match your GitHub and personal details.
